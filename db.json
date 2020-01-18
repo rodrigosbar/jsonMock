@@ -139,6 +139,7 @@
  "imoveisDetalhes": [
           {
                "id": 85,
+               "titulo": "Balneário dos Golfinhos",
                "referencia": "TE00055",
                "fotos": [
                     "https://cdn.uso.com.br/11444/2019/11/105754779.jpg",
@@ -148,6 +149,7 @@
           },
           {
                "id": 86,
+               "titulo": "GOLFINHO, casa pra venda",
                "referencia": "CA00261",
                "fotos": [
                     "https://cdn.uso.com.br/11444/2018/01/63034975.jpg",
@@ -157,6 +159,7 @@
           },
           {
                "id": 87,
+               "titulo": "MASSAGUAÇU, ÓTIMO TERRENO",
                "referencia": "TE00046",
                "fotos": [
                     "https://cdn.uso.com.br/11444/2019/04/92807000.jpg",
@@ -166,6 +169,7 @@
           },
           {
                "id": 88,
+               "titulo": "Sobrado, Martim de sá",
                "referencia": "AP00045",
                "fotos": [
                     "https://cdn.uso.com.br/11444/2015/03/20803234.jpg",
@@ -175,6 +179,7 @@
           },
           {
                "id": 89,
+               "titulo": "Indaiá, centro ",
                "referencia": "AP00045",
                "fotos": [
                     "https://cdn.uso.com.br/11444/2016/06/32444481.jpg",
@@ -184,6 +189,7 @@
           },
           {
                "id": 90,
+               "titulo": "Sobrado Caputera 2",
                "referencia": "SO00083",
                "fotos": [
                     "https://cdn.uso.com.br/11444/2016/10/37656638.jpg",
