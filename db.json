@@ -135,5 +135,61 @@
                "text": "Aquárius",
                "relatedId": "3"
           }
+     ],
+ "imoveisDetalhes": [
+          {
+               "id": 85,
+               "referencia": "TE00055",
+               "fotos": [
+                    "https://cdn.uso.com.br/11444/2019/11/105754779.jpg",
+                    "https://cdn.uso.com.br/11444/2019/11/105754852.jpg",
+                    "https://cdn.uso.com.br/11444/2019/11/105754856.jpg"
+               ]
+          },
+          {
+               "id": 86,
+               "referencia": "CA00261",
+               "fotos": [
+                    "https://cdn.uso.com.br/11444/2018/01/63034975.jpg",
+                    "https://cdn.uso.com.br/11444/2018/01/63034980.jpg",
+                    "https://cdn.uso.com.br/11444/2018/01/63034989.jpg"
+               ]
+          },
+          {
+               "id": 87,
+               "referencia": "TE00046",
+               "fotos": [
+                    "https://cdn.uso.com.br/11444/2019/04/92807000.jpg",
+                    "https://cdn.uso.com.br/11444/2019/04/92807071.jpg",
+                    "https://cdn.uso.com.br/11444/2019/04/92807077.jpg"
+               ]
+          },
+          {
+               "id": 88,
+               "referencia": "AP00045",
+               "fotos": [
+                    "https://cdn.uso.com.br/11444/2015/03/20803234.jpg",
+                    "https://cdn.uso.com.br/11444/2015/03/20803252.jpg",
+                    "https://cdn.uso.com.br/11444/2015/03/20803259.jpg"
+               ]
+          },
+          {
+               "id": 89,
+               "referencia": "AP00045",
+               "fotos": [
+                    "https://cdn.uso.com.br/11444/2016/06/32444481.jpg",
+                    "https://cdn.uso.com.br/11444/2016/06/32444476.jpg",
+                    "https://cdn.uso.com.br/11444/2016/06/32444473.jpg"
+               ]
+          },
+          {
+               "id": 90,
+               "referencia": "SO00083",
+               "fotos": [
+                    "https://cdn.uso.com.br/11444/2016/10/37656638.jpg",
+                    "https://cdn.uso.com.br/11444/2016/10/37656674.jpg",
+                    "https://cdn.uso.com.br/11444/2016/10/37656748.jpg"
+               ]
+          }
      ]
 }
